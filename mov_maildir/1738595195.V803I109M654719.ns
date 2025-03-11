@@ -1,0 +1,10 @@
+Return-Path: <root@itnetsys.org>
+X-Original-To: manager@itnetsys.org
+Delivered-To: manager@itnetsys.org
+Received: by ns.itnetsys.org (Postfix, from userid 0)
+	id 9423F10E; Tue,  4 Feb 2025 00:06:35 +0900 (JST)
+Message-Id: <20250203150635.9423F10E@ns.itnetsys.org>
+Date: Tue,  4 Feb 2025 00:06:32 +0900 (JST)
+From: root <root@itnetsys.org>
+
+test

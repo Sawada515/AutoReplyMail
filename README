@@ -1,0 +1,11 @@
+How to use AutoReply
+
+0. install cmake gcc sendmail rsyslog
+
+1. Please make sure to place it in "/root/AutoReply/"
+2. Edit autoreply.config
+3. Use make
+4. systemctl start AutoReply.service
+
+if you find any bugs, please contact sawadasouta.0515@gmail.com or sawada@cbyte.online
+
